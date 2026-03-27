@@ -21,11 +21,11 @@ Example request to API (POST `/parse`):
 "items": [
 {
 "subreddit": "aww",
-"keywords": ["cat", "dog"]
+"keywords": ["cat", "dog", "forest", "river"]
 },
 {
 "subreddit": "nature",
-"keywords": ["forest", "river"]
+"keywords": ["cat", "dog", "forest", "river"]
 }
 ],
 "limit": 5
